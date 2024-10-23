@@ -30,8 +30,11 @@ php artisan migrate
 
 php artisan serve
 
+npm run dev
+
 ##for laravel herd
-herd serve
+herd link
+
 
 
 This `README.md` provides clear installation and setup instructions based on your project. Feel free to modify or extend it as necessary!
