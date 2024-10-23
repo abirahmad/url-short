@@ -23,3 +23,17 @@ DB_PASSWORD=pass
 
 composer install
 composer update
+
+npm install
+
+php artisan migrate
+
+php artisan serve
+
+##for laravel herd
+herd serve
+
+
+This `README.md` provides clear installation and setup instructions based on your project. Feel free to modify or extend it as necessary!
+
+
